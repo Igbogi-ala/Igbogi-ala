@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Igbogi-ala
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m Excellent Leo
+- 👀 I’m a data analyst proficient in web scraping,SQL,POWER BI and Excel
 - 🌱 I’m currently learning SQL on Data Camp
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data analyst, data engineer and project management roles.
 - 📫 How to reach me leoexcellent4@gmail.com
 
 <!---
